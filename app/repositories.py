@@ -1,6 +1,6 @@
 from typing import List, Optional
 
-from schemas import Post, PostCreate
+from .schemas import Post, PostCreate
 
 
 class PostRepository:

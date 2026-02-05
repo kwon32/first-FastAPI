@@ -1,7 +1,7 @@
 from typing import List
 
-from repositories import PostRepository
-from schemas import Post, PostCreate
+from .repositories import PostRepository
+from .schemas import Post, PostCreate
 
 
 class PostService:
